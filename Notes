@@ -7,4 +7,4 @@
 //xdg-open . (to open directory from terminal)
 //sudo su allows you to remain as the superuser
 // grep a\+n (outputs words that contain the letter a before the letter n)
-//edit
+//
