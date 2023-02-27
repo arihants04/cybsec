@@ -1,2 +1,9 @@
 //Cyber Notes
-//The risk is the likelyhood a threat will utilize the vunerability in a software to access and manipulate data
+//PASSWORD FOR KALI LINUX PARALLELS (kalilinux)
+//The risk is the likelihood a threat will utilize the vunerability in a software to access and manipulate data
+// 2 types of DNS (private and public)
+// ping 4.2.2.2 to ping ip address
+// a/
+//xdg-open . (to open directory from terminal)
+//sudo su allows you to remain as the superuser
+// grep a\+n (outputs words that contain the letter a before the letter n)
