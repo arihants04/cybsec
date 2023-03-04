@@ -8,4 +8,9 @@
 //sudo su allows you to remain as the superuser
 // grep a\+n (outputs words that contain the letter a before the letter n)
 //https://attack.mitre.org/
+// sudo nikto -h <link>
+//sudo npam <link>
+// sudo dotdotpwn <link>
+//apt-get (to install software)
+//apt-get update (to update to install)
 //
