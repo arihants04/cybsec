@@ -13,4 +13,11 @@
 // sudo dotdotpwn <link>
 //apt-get (to install software)
 //apt-get update (to update to install)
-//
+//sudo john -- list-format to list all formats
+// john <fileName/.txt> -show --format=Raw-md5
+//crunch is used to give all the possible combinations of a password 
+//crunch takes 2 nums as arguments and displays in a matrix of the 2 nums
+// crunch <num> <num> <password>
+// sudo msfconsole
+
+
