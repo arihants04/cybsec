@@ -1,24 +1,26 @@
-//Cyber Notes
-//PASSWORD FOR KALI LINUX PARALLELS (kalilinux)
-//The risk is the likelihood a threat will utilize the vunerability in a software to access and manipulate data
+// Cyber Notes
+// PASSWORD FOR KALI LINUX PARALLELS (kalilinux)
+// The risk is the likelihood a threat will utilize the vunerability in a software to access and manipulate data
 // 2 types of DNS (private and public)
 // ping 4.2.2.2 to ping ip address
 // a/
-//xdg-open . (to open directory from terminal)
-//sudo su allows you to remain as the superuser
+// xdg-open . (to open directory from terminal)
+// sudo su allows you to remain as the superuser
 // grep a\+n (outputs words that contain the letter a before the letter n)
-//https://attack.mitre.org/
+// https://attack.mitre.org/
 // sudo nikto -h <link>
-//sudo npam <link>
+// sudo npam <link>
 // sudo dotdotpwn <link>
-//apt-get (to install software)
-//apt-get update (to update to install)
-//sudo john -- list-format to list all formats
+// apt-get (to install software)
+// apt-get update (to update to install)
+// sudo john -- list-format to list all formats
 // john <fileName/.txt> -show --format=Raw-md5
-//crunch is used to give all the possible combinations of a password 
-//crunch takes 2 nums as arguments and displays in a matrix of the 2 nums
+// crunch is used to give all the possible combinations of a password 
+// crunch takes 2 nums as arguments and displays in a matrix of the 2 nums
 // crunch <num> <num> <password>
 // sudo msfconsole
+// bulk_extractor
+// weevely is used to maintain backdoor access
 // mesh topology is best for huge networks and star topology is best for small
 // All People Seem To Need Data Processing (Acronym for OSI model)
 
