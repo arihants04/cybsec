@@ -24,4 +24,5 @@
 // mesh topology is best for huge networks and star topology is best for small
 // All People Seem To Need Data Processing (Acronym for OSI model)
 // iconfig gives your MAC address (first ether channel)
+// msfconsole | search slowloris | use 0
 
