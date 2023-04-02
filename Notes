@@ -27,3 +27,6 @@
 // msfconsole | search slowloris | use 0
 // Cam-Hackers on github to view cameras around the world
 // https://github.com/AngelSecurityTeam/Cam-Hackers
+// gpg <filename.txt> encrypts the file
+// hash-identifier to identify type of hash
+// md5sum <filename> > <hash file name> to create md5 hash of a text file
