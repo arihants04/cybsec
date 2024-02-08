@@ -30,3 +30,4 @@
 // gpg <filename.txt> encrypts the file
 // hash-identifier to identify type of hash
 // md5sum <filename> > <hash file name> to create md5 hash of a text file
+// qemu-x86_64-static to convert from x86 to arm
