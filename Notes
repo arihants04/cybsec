@@ -31,3 +31,4 @@
 // hash-identifier to identify type of hash
 // md5sum <filename> > <hash file name> to create md5 hash of a text file
 // qemu-x86_64-static <filename> to convert from x86 to arm
+// https://github.com/iphoneintosh/kali-docker to run kali linux in browser port 9020/vnc.html password changeme
